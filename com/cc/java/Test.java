@@ -17,6 +17,14 @@ public class Test {
 	// private --> NUR die eigene Klasse / Objekt (-)
 	// protected --> NUR die eigene Klasse / Objekt + Subklassen (#)
 
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
  
 
  
